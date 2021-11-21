@@ -1,0 +1,21 @@
+.formContainer {
+    background: lightgray;
+    padding-top: 2rem;
+
+    label {
+        font-size: 15px;
+    }
+
+    .dropdownContainer {
+        width: 165px;
+        text-align: left;
+    }
+
+    .inputContainer {
+        // padding: 1.6rem 0rem;
+    }
+
+    .submitContainer {
+        padding: 0rem 1rem;
+    }
+}
